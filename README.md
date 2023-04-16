@@ -1,14 +1,8 @@
-<style>
-    .transparent {
-        color: #00000000;
-    }
-</style>
-
 ### 这里是 狼(o0kam1)
 
 部分平台因为历史遗留问题被称为 duzhaokun123
 
-双非一本废物 除了活着什么都不会 <span class="transparent">明明活都活不好</span>
+双非一本废物 除了活着什么都不会 ~~(明明活都活不好)~~
 
 经常写一些没啥用的东西
 
