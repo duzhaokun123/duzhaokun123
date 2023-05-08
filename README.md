@@ -4,6 +4,8 @@
 
 双非一本废物 除了活着什么都不会 ~~(明明活都活不好)~~
 
+<!-- 双非一本废物 除了活着什么都不会 ~~(明明活者都不会)~~ -->
+
 经常写一些没啥用的东西
 
 希望能像他人一样自信
@@ -15,3 +17,5 @@
 ![Android 13](https://img.shields.io/badge/Android-13-3DDC84?style=flat-square&logo=android) ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows11) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-rolling-1793D1?style=flat-square&logo=arch-linux)
 
 _we still here, as we are not leave yet_
+
+<!-- _we still here, as if we are not leave yet_ -->
