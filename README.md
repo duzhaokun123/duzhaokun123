@@ -11,10 +11,10 @@
 希望能像他人一样自信
 
 ### 常用语言
-![Kotlin](https://img.shields.io/badge/Kotlin-8748fE?style=flat-square&logo=kotlin&logoColor=white) (所以你除了 Kotlin 还用什么...)
+不不不 我什么都不会
 
 ### 常用系统
-![Android 14](https://img.shields.io/badge/Android-14-3DDC84?style=flat-square&logo=android) ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows11) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-rolling-1793D1?style=flat-square&logo=arch-linux)
+不不不 我什么平台都不知道
 
 <!-- _we still here, as we have not left yet_ -->
 
