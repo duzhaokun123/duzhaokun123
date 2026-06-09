@@ -11,13 +11,15 @@
 希望能像他人一样自信
 
 ### 常用语言
+
 不不不 我什么都不会
 
 ### 常用系统
+
 不不不 我什么平台都不知道
 
-<!-- _we still here, as we have not left yet_ -->
+_we still here, as we have not left yet_
 
-_we still here, as we cannot leave yet_
+<!-- _we still here, as we cannot leave yet_ -->
 
 <!-- _we still here, as if we have not left yet_ -->
