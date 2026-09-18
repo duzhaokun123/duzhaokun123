@@ -1,3 +1,9 @@
+如果由于我使用(或不使用) AI 惹恼了你 请随意拉黑
+
+If my use (or not use) of AI annoys you, feel free to block
+
+---
+
 ### 这里是 狼(o0kam1)
 
 部分平台因为历史遗留问题被称为 duzhaokun123
